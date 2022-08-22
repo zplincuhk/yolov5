@@ -1,0 +1,1 @@
+python detect.py --source data/images/outdoor.png --weights pretrained/yolov5s.pt
